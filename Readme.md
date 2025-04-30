@@ -32,4 +32,4 @@ Use the programming language at your preference. C# would be an added-value.
 - Connector which can variably poll the Data Source, based on a specified frequency
 - Connector results can be polled independently of device polling.
 - Nic and Device `bits per second` calculation.
-- Outputs to Console for simplicity—(Logging should be added via DI)
+- Outputs to Console for simplicity — (Logging should be added via DI)
